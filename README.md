@@ -24,7 +24,7 @@ Tenho 21 anos, servi no exército no ano de 2021, gosto de jogos soulslike, faç
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Minhas redes sociais 👍🏽
-<a href="https://www.linkedin.com/in/gabriel-rodrigues-4ba530201/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://https://www.linkedin.com/in/gaabdelgado/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ## Github Status ✥ 
 ![GaabDelgado's Stats](https://github-readme-stats.vercel.app/api?username=GaabDelgado&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
